@@ -5,6 +5,6 @@ public class AboutMe {
                 "Birthday: October 1st 2010\n" + //
                 "Hobbies: Reading, Writing, Skateboarding\n" + //
                 "Favorite Book: The State and The Revolution\n" + //
-                "Favorite Movie: Spider-Man: Accross the Spider-Verse / Spider-Man: Brand New Day\n");
+                "Favorite Movie: Dead Poets Society");
     }
 }
